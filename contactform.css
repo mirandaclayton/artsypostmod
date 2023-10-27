@@ -1,0 +1,49 @@
+body 
+ {
+    color: black;
+    font-family: arial, helvetica, sans-serif;
+    //content: center;
+
+ }
+
+header
+{
+    background-color: #44A9AA;
+    align-content: left;
+    padding-left: 3%;
+}
+
+.logo
+ {
+    width: 15%;
+ }
+
+#p1
+  {
+    align: center; 
+    width: 50%;
+    margin: auto;
+    padding-bottom: 15px;
+  }
+
+ h1{
+   font-family: Arial, Helvetica, sans-serif;
+   content-align: center;
+   font-size: 300%;
+   text-align: center;
+   color: coral;
+ }
+
+ .form
+ {
+   background-color: #E5F3F2;
+   border: 2px solid #006D57;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+   width: 25%;
+   padding-top: 20px;
+   padding-bottom: 30px; 
+   padding-left: 5%;
+   padding-right: 5%;
+
